@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="hand image" width="200px">
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="hand image" width="100px">
 
 <!--
 **enzosarmento/enzosarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

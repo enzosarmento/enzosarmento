@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![hand](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
 
 <!--
 **enzosarmento/enzosarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

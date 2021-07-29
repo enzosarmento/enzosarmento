@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💌 Links para entrar en contato:
+  💌 Contatos:
 </p>
 
   <a href="https://www.linkedin.com/in/enzo-fernandes-sarmento-846573208/" alt="Linkedin">

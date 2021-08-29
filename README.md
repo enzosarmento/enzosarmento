@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/enzo.sarmento/"/></a>
 </p>
 
-![Snake animation](https://github.com/enzosarmento/enzosarmento/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/enzosarmento/enzosarmento/blob/output/github-contribution-grid-snake.svg) 
 
 <!--
 **enzosarmento/enzosarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

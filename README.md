@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Meu nome é Enzo, tenho 19 anos e estou cursando <strong>Ciência da Computação</strong>.<br>
-  Atualmente tenho focado em estudar as tecnologias para o desenvolvimento WEB.
+  Atualmente tenho focado em estudar as tecnologias voltadas ao desenvolvimento WEB.
 </p>
 
 <p align="left">

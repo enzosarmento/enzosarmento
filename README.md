@@ -1,9 +1,9 @@
 ### Hi there
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
 
 <p align="left"> 
-  Meu nome é Enzo, tenho 20 anos e estou cursando <strong>Ciência da Computação</strong>.<br>
+  Meu nome é Enzo, tenho 21 anos e estou cursando <strong>Ciência da Computação</strong>.<br>
   Atualmente tenho focado em estudar as tecnologias voltadas ao desenvolvimento WEB.
 </p>
 
@@ -30,18 +30,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/enzo.sarmento/"/></a>
 </p>
  
-<!--
-**enzosarmento/enzosarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
  

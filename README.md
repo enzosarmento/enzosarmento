@@ -4,7 +4,6 @@
 
 <p align="left"> 
   Meu nome é Enzo, tenho 21 anos e estou cursando <strong>Ciência da Computação</strong>.<br>
-  Atualmente tenho focado em estudar as tecnologias voltadas ao desenvolvimento WEB.
 </p>
 
 <p align="left">
@@ -12,6 +11,7 @@
   <div>
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
 </p>
 

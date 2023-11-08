@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+  Linguagens:
   <div>
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Contatos:
+  Contatos:
 </p>
 
   <a href="https://www.linkedin.com/in/enzo-fernandes-sarmento-846573208/" alt="Linkedin">

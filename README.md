@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
 
 <p align="left"> 
-  Meu nome é Enzo, tenho 21 anos e estou cursando <strong>Ciência da Computação</strong>.<br>
+  Meu nome é Enzo, tenho 22 anos e estou cursando <strong>Ciência da Computação</strong>.<br>
 </p>
 
 <p align="left">

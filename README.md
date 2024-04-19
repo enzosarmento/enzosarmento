@@ -9,9 +9,9 @@
 <p align="left">
   Linguagens:
   <div>
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://camo.githubusercontent.com/81094d508a549afc207fd53971c09c9120c322d2726eb0285476d67d5e1ce151/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6f746c696e2d3030393564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d666666">
+    ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
+    ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+    ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
   </div>
 </p>
 

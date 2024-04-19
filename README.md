@@ -5,6 +5,7 @@
 <p align="left"> 
   Meu nome é Enzo, tenho 22 anos e estou cursando <strong>Ciência da Computação</strong>.<br>
 </p>
+
 ### Linguagens:
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)

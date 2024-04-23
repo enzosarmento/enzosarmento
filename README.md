@@ -10,6 +10,7 @@
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-0095d5?style=for-the-badge&logo=go&logoColor=fff)
 
  
  

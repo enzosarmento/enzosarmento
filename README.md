@@ -7,7 +7,6 @@
 </p>
 
 ### Languages
-![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-0095d5?style=for-the-badge&logo=go&logoColor=fff)
 
  

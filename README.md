@@ -8,7 +8,7 @@
 
 ### Languages
 ![Go](https://img.shields.io/badge/-Go-0095d5?style=for-the-badge&logo=go&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-0095d5?style=for-the-badge&logo=python&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 
  
  

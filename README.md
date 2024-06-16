@@ -6,7 +6,7 @@
   My name is Enzo, I'm 22 years old and I'm studying <strong>Computer Science</strong>.<br>
 </p>
 
-### Languages ​​that I am learning and/or have some knowledge of
+#### Languages ​​that I am learning and/or have some knowledge of
 ![C](https://img.shields.io/badge/-C-0095d5?style=for-the-badge&logo=C&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-c++-048?style=for-the-badge&logo=cplusplus&logoColor=fff)

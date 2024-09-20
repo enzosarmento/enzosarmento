@@ -7,6 +7,7 @@
 </p>
 
 #### Languages ​​that I am have some knowledge of
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-0095d5?style=for-the-badge&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-3776ab?style=for-the-badge&logo=C&logoColor=fff)
 #### Competitive Programming

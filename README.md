@@ -14,7 +14,6 @@
 ![C++](https://img.shields.io/badge/-c++-048?style=for-the-badge&logo=cplusplus&logoColor=fff)
 #### Learning
 ![Go](https://img.shields.io/badge/-go-50b7e0?style=for-the-badge&logo=go&logoColor=fff)
-![Lua](https://img.shields.io/badge/-lua-000080?style=for-the-badge&logo=lua&logoColor=fff)
 
 
 

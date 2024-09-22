@@ -13,7 +13,8 @@
 #### Competitive Programming
 ![C++](https://img.shields.io/badge/-c++-048?style=for-the-badge&logo=cplusplus&logoColor=fff)
 #### Learning
-![Go](https://img.shields.io/badge/-go-50b7e0?style=for-the-badge&logo=go&logoColor=fff)
+![Go](https://img.shields.io/badge/-go-00add8?style=for-the-badge&logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/-rust-dea580?style=for-the-badge&logo=rust&logoColor=fff)
 
 
 

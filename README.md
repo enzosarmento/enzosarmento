@@ -6,10 +6,6 @@
   My name is Enzo, I'm 22 years old and I'm studying <strong>Computer Science</strong>.<br>
 </p>
 
-#### Learning
-![Rust](https://img.shields.io/badge/-rust-dea584?style=for-the-badge&logo=rust&logoColor=fff)
-
-
 
  
  

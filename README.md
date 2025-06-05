@@ -5,4 +5,7 @@
 <p align="left"> 
   My name is Enzo, I'm 23 years old and I'm studying <strong>Computer Science</strong>.<br>
 </p>
- 
+
+### Focus
+![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Rust](https://img.shields.io/badge/-rust-dea584?style=for-the-badge&logo=rust&logoColor=fff)

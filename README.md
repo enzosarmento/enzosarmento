@@ -8,4 +8,3 @@
 
 ### Focus
 ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=fff)
-![Rust](https://img.shields.io/badge/-rust-dea584?style=for-the-badge&logo=rust&logoColor=fff)

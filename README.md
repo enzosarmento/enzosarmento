@@ -7,5 +7,6 @@
 </p>
 
 ### Focus
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-4E843E?style=for-the-badge&logo=android&logoColor=fff)

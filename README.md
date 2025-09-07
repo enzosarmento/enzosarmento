@@ -6,6 +6,5 @@
 
 ### Focus
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=fff)
 
